@@ -1,0 +1,27 @@
+Anigrid v.01 by p. smith (https://github.com/patrismith)
+
+draft for the first session of the Creative Programming course on coursera
+https://class.coursera.org/digitalmedia-001/
+
+Draws a grid of squares that play sounds and animations when activated
+Activate squares by clicking and dragging!
+
+requires Processing 2.0.1
+If you are viewing this code from the peer assessment page,
+please visit the github link for the data files and Maxim library.
+
+sounds for this version courtesy S. Duda, used with permission
+
+volume control fix courtesy Martin Bruner
+https://github.com/mbruner63/Maxim_Java_API
+
+About this version:
+
+- It is very messy, ad-hoc code :p 
+
+Planned changes:
+
+- Change the graphics to be something more 'fun'
+- Clean up the code
+- More interesting sounds
+- Possibly add features such as saving...
